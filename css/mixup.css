@@ -1,0 +1,33 @@
+@charset "utf-8";
+* {
+  box-sizing: border-box;
+}
+.container,
+.mix-wrapper {
+  width: 80%;
+  margin: 50px auto;
+}
+.mix {
+  width: 20%;
+  background-color: rgb(156, 138, 180);
+  margin: 20px 10px;
+  text-align: center;
+  padding: 5px;
+  display: inline-block;
+  color: #fff;
+  height: 150px;
+}
+.blue {
+  background-color: blue;
+}
+
+.orange {
+  background-color: orange;
+}
+.black {
+  background-color: black;
+}
+.green {
+  background-color: green;
+  background: url("../images/kurby\ \(1\).jpg") no-repeat center;
+}
